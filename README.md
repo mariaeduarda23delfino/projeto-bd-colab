@@ -20,6 +20,19 @@ criação e manipulação de um BD em SQLite
 
 As tabelas têm relacionamento com chaves estrangeiras.
 
+## Estrutura do Banco  
+| Tabela   | Descrição                  | Campos principais                     |  
+|----------|----------------------------|---------------------------------------|  
+| PESSOAS  | Cadastro de clientes       | `id`, `nome`, `idade`                 |  
+| PRODUTOS | Itens disponíveis          | `id`, `descricao`, `estoque`, `preco` |  
+| VENDAS   | Registro de transações     | `id_venda`, `id_pessoa`, `id_produto`, `quantidade` |  
+
+## Conclusão
+Este projeto demonstrou na prática:
+✔ Criação de um banco de dados relacional 
+✔ Implementação de chaves estrangeiras para integridade dos dados
+✔ Geração de relatórios combinando informações múltiplas
+
 ## Ferramentas usadas
 
 - Python
