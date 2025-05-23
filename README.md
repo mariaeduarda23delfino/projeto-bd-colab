@@ -10,7 +10,7 @@ criação e manipulação de um BD em SQLite
 - Usa JOIN para juntar as informações das tabelas
 
 ##  Diagrama ER
-![Texto alternativo]![diagrama modelagem](https://github.com/user-attachments/assets/e5b48b45-253b-4366-8ec6-1e3bcc745aa9)
+![Texto alternativo](https://github.com/user-attachments/assets/e5b48b45-253b-4366-8ec6-1e3bcc745aa9)
 
 ## Tabelas criadas
 
