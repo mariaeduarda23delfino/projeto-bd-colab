@@ -32,4 +32,4 @@ As tabelas têm relacionamento com chaves estrangeiras.
 O código mostra no console quem comprou e por qual valor.
 
 Exemplo:
-Maria comprou 2x Camiseta por R$60.0
+Maria comprou 2x Camiseta por R$60,00
